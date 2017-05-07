@@ -8,3 +8,4 @@ Authorization required to consume API's endpoints. Get access token via /oauth/t
 Register is public on root context "/register".
 
 ## Authorization
+Authorization consists of two user levels : User (under "/user0" URIs) and Admin ("/admin" URIs).
